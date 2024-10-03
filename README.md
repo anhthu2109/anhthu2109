@@ -1,5 +1,10 @@
 ## Hi there 👋
+Hello!👋 My name is Nguyen Doan Anh Thu. I am from Da Nang University of Architecture studying Information Technology.
 
+...
+
+Skills:
+...
 <!--
 **anhthu2109/anhthu2109** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
